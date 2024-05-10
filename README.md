@@ -1,5 +1,6 @@
 <h1 align=center> TmuxRadio </h1>
 <p align=center> SEARCH, PLAY radio station from the globe from your terminal </p>
+
 ### Demo
 <p align=center>https://github.com/sifaw99/terminal_radio/assets/64286343/27e3ef74-6a57-4408-ab6b-e48edd1f4558</p>
 
