@@ -23,7 +23,16 @@ For other systems including Windows see the above link
 
 ### Run
 
-Search a station with `radio -s [STATION_NAME]`.
+Search a station with `radio -s [STATION_NAME]`. <br/>
+Or  <br/>
+Search a station with `tmuxradio -s [STATION_NAME]`. <br/>
+`-s` is mandatory option
+
+#### TODO:
+
+- [ ] Create other options filter by tag, country, votes, popularity...
+- [ ] Create favorite list
+- [ ] Test app in other platform currently tested in Ubuntu
 
 
 
