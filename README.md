@@ -15,8 +15,7 @@ system in order to play the audio
 on Ubuntu-based system >= 20.04, Run
 
 ```
-sudo apt update
-sudo apt install ffmpeg
+sudo apt update && sudo apt install ffmpeg
 ```
 
 For other systems including Windows see the above link
