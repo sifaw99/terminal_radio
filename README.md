@@ -1,7 +1,12 @@
 <h1 align=center> TmuxRadio </h1>
 <p align=center> SEARCH, PLAY radio station from the globe from your terminal </p>
+### Demo
 <p align=center>https://github.com/sifaw99/terminal_radio/assets/64286343/27e3ef74-6a57-4408-ab6b-e48edd1f4558</p>
 
+### Features
+- [x] Looks minimal and user-friendly
+- [x] Supports more than 40K stations !! :radio:
+- [x] Consume less memory than GUI app !!  
 ### Install
 
 Simply run: `pip3 install tmuxradio`
@@ -31,6 +36,7 @@ Search a station with `tmuxradio -s [STATION_NAME]`. <br/>
 #### TODO:
 
 - [ ] Create other options filter by tag, country, votes, popularity...
+- [ ] Fetch song information artist and music name
 - [ ] Create favorite list
 - [ ] Test app in other platform currently tested in Ubuntu
 
