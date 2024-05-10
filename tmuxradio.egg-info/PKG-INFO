@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: tmuxradio
+Version: 0.2.31
+Summary: Playing globe radio station from terminal
+Home-page: http://github.com/sifaw99/terminal_radio
+Author: Lahcen Ouchary
+Author-email: lahcen.ouchary@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+Playing radio station from the globe from terminal 
+
+
+Change Log
+============
+
+0.1 (May 10, 2024) 
+— — — — — — — — — -- 
+First Release
