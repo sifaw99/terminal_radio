@@ -9,7 +9,7 @@
 - [x] Supports more than 40K stations !! :radio:
 - [x] Consume less memory than GUI app !!  
 ### Install
-
+First run:`pip3 install setuptools`, and then <br/>
 Simply run: `pip3 install tmuxradio`
 
 I recommend installing it using `pipx install tmuxradio`
@@ -25,7 +25,7 @@ on Ubuntu-based system >= 20.04, Run
 sudo apt update && sudo apt install ffmpeg
 ```
 
-For other systems including Windows see the above link
+For other systems including Windows see the above link.
 
 ### Run
 
