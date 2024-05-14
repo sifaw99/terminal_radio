@@ -29,9 +29,7 @@ For other systems including Windows see the above link.
 
 ### Run
 
-Search a station with `radio -s [STATION_NAME]`. <br/>
-Or  <br/>
-Search a station with `tmuxradio -s [STATION_NAME]`. <br/>
+Search a station with `radio -s [STATION_NAME]`. Or `tmuxradio -s [STATION_NAME]`. <br/>
 `-s` is mandatory option
 
 #### TODO:
